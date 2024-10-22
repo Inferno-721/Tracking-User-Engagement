@@ -1,4 +1,4 @@
-# Tracking-User-Engagement
+# Student Analysis
 Tracking User Engagement with SQL, Excel, and Python Project Comparing and Analyzing Student Engagement Between Q2 2021 and Q2 2022
 **Case Description**
 Background: Throughout this Tracking User Engagement with SQL, Excel, and Python project, you’ll work with a real dataset from our company’s data. The project requires you to analyze whether the new additions to the platform (new courses, exams, and career tracks) have increased student engagement.
